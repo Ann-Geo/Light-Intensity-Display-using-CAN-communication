@@ -1,3 +1,5 @@
+Embedded Systems project
+
 Readme
 ------
 Project Title: Light Intensity Display using CAN communication
